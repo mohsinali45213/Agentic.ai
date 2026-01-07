@@ -1,4 +1,5 @@
 langchain
+langgraph
 langchain_core
 langchain_openai
 langchain_google_genai
@@ -6,3 +7,8 @@ langchain_community
 langchain_text_splitters
 ipykernel
 dotenv
+pypdf
+pymupdf 
+pdfplumber
+chromadb
+ddgs
