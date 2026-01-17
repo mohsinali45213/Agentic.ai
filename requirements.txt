@@ -12,3 +12,5 @@ pymupdf
 pdfplumber
 chromadb
 ddgs
+streamlit
+langgraph-checkpoint-sqlite
